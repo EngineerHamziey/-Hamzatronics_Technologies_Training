@@ -3,6 +3,9 @@
 contents:
 
 1. [What we teach](#what-we-teach).
+1. [Requirements](#requirements).
+1. [Important notice](#please-note).
+1. [Dos and don'ts](#dos-and-donts).
 
 ## What We Teach
 
@@ -111,3 +114,13 @@ This is a 6 months training program, if you were on IT/SIWES, then your times is
 1. **For registered trainees(not IT/SIWES):** We shall cover the [Pure Electronics without programming section](#pure-electronics-without-programming), Git version control and GitHub and minimum of 10 of the [Aduino Projects](#arduino-projects). (Trainees have right to 30% off for their IT/SIWES training fee, if he/she has paid tuition in full).
 1. **For IT students(6 months):** We shall cover Git version control and GitHub, minimum of 5 of the [Aduino Projects](#arduino-projects) and minimum of 70% of the [Pure Electronics without programming section](#pure-electronics-without-programming).
 1. **For SIWES students(3 months):** We shall cover minimum of 3 of the [Aduino Projects](#arduino-projects) and do introduction to Git version control section and  minimum of 50% of [Pure Electronics without programming section](#pure-electronics-without-programming).
+
+### Requirements
+
+### Dos and don'ts
+
+1. All materials are useful, so don't take anything that isn't yours unless you are told to do so, If you take anything without permission, that will be considered as stealing(no matter how useless the thing may seem. Ask me for more explanation if you don't get it).
+1. No use of foul languages in the workshop, we should treat eachother with respect.
+1. No intermingling of genders: activities like kissing, hugging and the likes should never take place in the workshop.
+1. If you like to listen to music, please use your earphones.
+1. Pay your tuition fee.
