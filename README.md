@@ -6,6 +6,7 @@ contents:
 1. [Requirements](#requirements).
 1. [Important notice](#please-note).
 1. [Dos and don'ts](#dos-and-donts).
+1. [Contact Information](#contacts).
 
 ## What We Teach
 
@@ -124,3 +125,10 @@ This is a 6 months training program, if you were on IT/SIWES, then your times is
 1. No intermingling of genders: activities like kissing, hugging and the likes should never take place in the workshop.
 1. If you like to listen to music, please use your earphones.
 1. Pay your tuition fee.
+
+### Contacts
+
+- LinkedLn Profile - [Lawal Hamzat Ademola](https://www.linkedin.com/in/hamzat-lawal-a88404239)
+- Frontend Mentor - [@EngineerHamziey](https://www.frontendmentor.io/profile/EngineerHamziey)
+- E-Mail- [mrlawalhamzat@gmail.com](mrlawalhamzat@gmail.com)
+- Whatsapp- [+2348130152298](https://api.whatsapp.com/send?phone=2348130152298&text=Hello%20I'm%20.....%20I'll%20like%20to%20apply%20for%20IT%20training%20in%20your%20workshop).
