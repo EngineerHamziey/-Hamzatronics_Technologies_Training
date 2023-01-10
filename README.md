@@ -2,6 +2,7 @@
 
 contents:
 
+1. [The Upcoming 2 months IT/SIWES for COLENG Funaabite](#for-siwes-students).
 1. [What we teach](#what-we-teach).
 1. [Requirements](#requirements).
 1. [Important notice](#please-note).
@@ -13,6 +14,23 @@ contents:
 1. [Pure Electronics without programming section](#pure-electronics-without-programming).
 1. [Arduino Basics](#arduino-basics)
 1. [Aduino Projects](#arduino-projects).
+
+## Please note
+
+The training takes 6 months, But IT/SIWES placement program time is 6 months or 3 months.
+
+### For registered trainees(not IT/SIWES)
+
+ We shall cover the [Pure Electronics without programming section](#pure-electronics-without-programming), Git version control and GitHub and minimum of 10 of the [Aduino Projects](#arduino-projects). (Trainees have right to 30% off for their IT/SIWES training fee, if he/she has paid tuition in full).
+
+### For IT students(6 months)
+
+We shall cover Git version control and GitHub, minimum of 5 of the [Aduino Projects](#arduino-projects) and minimum of 70% of the [Pure Electronics without programming section](#pure-electronics-without-programming).
+
+### For SIWES students
+
+We shall cover minimum of 5 [Aduino Projects](#arduino-projects) and do introduction to Git version control section and  minimum of 50% of [Pure Electronics without programming section](#pure-electronics-without-programming).
+
 
 ### Pure Electronics without programming
 
@@ -107,14 +125,6 @@ Version control commands, how they work, and how to use them efficiently. ***Com
 1. etc.
 
 You can check more on [naukri.com](https://www.naukri.com/learning/articles/git-commands-with-examples/)
-
-### Please note
-
-This is a 6 months training program, if you were on IT/SIWES, then your times is either 6 months(IT) or 3 months(SIWES).
-
-1. **For registered trainees(not IT/SIWES):** We shall cover the [Pure Electronics without programming section](#pure-electronics-without-programming), Git version control and GitHub and minimum of 10 of the [Aduino Projects](#arduino-projects). (Trainees have right to 30% off for their IT/SIWES training fee, if he/she has paid tuition in full).
-1. **For IT students(6 months):** We shall cover Git version control and GitHub, minimum of 5 of the [Aduino Projects](#arduino-projects) and minimum of 70% of the [Pure Electronics without programming section](#pure-electronics-without-programming).
-1. **For SIWES students(3 months):** We shall cover minimum of 3 of the [Aduino Projects](#arduino-projects) and do introduction to Git version control section and  minimum of 50% of [Pure Electronics without programming section](#pure-electronics-without-programming).
 
 ### Requirements
 
